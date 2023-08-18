@@ -5,7 +5,7 @@
 <br>
   Weslley Richard
 <br>
-Projeto Historia do Android
+Projeto História do Android
 </h1>
 
 <p align="center">Projeto sobre a historia do Android, do professor <a href="https://github.com/gustavoguanabara">Gustavo Guanabara</a>
