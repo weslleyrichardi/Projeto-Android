@@ -9,7 +9,7 @@ Projeto História do Android
 </h1>
 
 <p align="center">Projeto sobre a historia do Android, do professor <a href="https://github.com/gustavoguanabara">Gustavo Guanabara</a>
-<p align="center"><a href="https://weslleyrichardi.github.io/projeto_android/">Acesso do projeto aqui</a></p>
+<p align="center"><a href="https://weslleyrichardi.github.io/Projeto_Android/">Acesso do projeto aqui</a></p>
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
