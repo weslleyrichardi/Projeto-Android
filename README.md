@@ -1,32 +1,42 @@
+<h1 align="center"> Projeto Android </h1>
 
-<h1 align="center">
-<br>
-  <img src="https://avatars.githubusercontent.com/u/117620005?v=4" alt="" width="120">
-<br>
-  Weslley Richard
-<br>
-Projeto História do Android
-</h1>
-
-<p align="center">Projeto sobre a historia do Android, do professor <a href="https://github.com/gustavoguanabara">Gustavo Guanabara</a>
-<p align="center"><a href="https://weslleyrichardi.github.io/Projeto-Android">Acesso do projeto aqui</a></p>
 <p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
+O Projeto Android é um projeto criado para testar meus conhecimentos com o nível básico de responsividade<br/>
+<a href="https://www.cursoemvideo.com/">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
-## Características
-[//]: # (Add the features of your project here:)
-Este projeto apresenta uma forma simplificada de fazer networking e compartilhar redes sociais.
-- 📌 **html** — Linguagem de marcação utilizada na construção de páginas na Web.
-- 📌 **css** — Mecanismo para adicionar estilos a uma página web.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-## Como usar?
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-Projeto criado para fins didáticos sobre html e css, basta baixar os arquivos no GitHub e abrir com o Visual Studio Code
 <br>
 
-## Licença
+<p align="center">
+  
+  https://github.com/weslleyrichardi/Projeto-Android/assets/117620005/8e8f3cdb-52ec-4daf-b579-81dc49c8244e
+  
+</p>
 
-Este projeto está licenciado sob o MIT License - Veja o [LICENSE](https://opensource.org/licenses/MIT) página para detalhes.
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- Git e Github
+
+## 💻 Projeto
+
+O projeto foi criado para testar meus conhecimentos com lógica de programação e JavaScript.
+
+- [Acesse o projeto finalizado, online](https://weslleyrichardi.github.io/Projeto-Calculadora/)
+  
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
