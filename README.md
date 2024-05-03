@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto foi criado para testar meus conhecimentos com lógica de programação e JavaScript.
 
-- [Acesse o projeto finalizado, online](https://weslleyrichardi.github.io/Projeto-Calculadora/)
+- [Acesse o projeto finalizado, online](https://weslleyrichardi.github.io/Projeto-Android/)
   
 ## :memo: Licença
 
